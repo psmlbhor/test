@@ -302,7 +302,7 @@
     <depends language="tr" version="5.2"/>
   </voice>
   <!-- THIS IS HERE -->
-  <voice gender="female" locale="en-US" name="" type="marytts.htsengine.HMMVoice" version="5.2">
+  <voice gender="female" locale="en-BLK" name="" type="marytts.htsengine.HMMVoice" version="5.2">
     <description>Beautiful voice</description>
     <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
     <package filename="voice-my_voice-hsmm-5.2.zip" md5sum="213e5d89c27a72a0b62b391d6f505e92" size="145003">
